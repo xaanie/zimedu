@@ -17,10 +17,10 @@ const LandingPage: React.FC<LandingPageProps> = ({ onGetStarted }) => {
              <i className="fas fa-book-open text-6xl text-zim-yellow"></i>
           </div>
           <h1 className="text-5xl md:text-7xl font-extrabold mb-6 tracking-tight leading-tight">
-            ZimEd <span className="text-zim-yellow">Planner</span>
+            ZimEdu <span className="text-zim-yellow">Planner</span>
           </h1>
           <p className="text-xl md:text-2xl text-gray-100 mb-10 max-w-3xl leading-relaxed">
-            The ultimate automated Scheme of Work generator for Zimbabwean Primary Educators. 
+            The ultimate A.I Assistant for Zimbabwean Educators. 
             Fully aligned with the <strong>Heritage Based Curriculum (2024-2030)</strong>.
           </p>
           <button
@@ -59,7 +59,7 @@ const LandingPage: React.FC<LandingPageProps> = ({ onGetStarted }) => {
             </div>
             <h3 className="text-lg font-bold mb-3 text-center">AI Generation</h3>
             <p className="text-sm text-gray-600 text-center leading-relaxed">
-              Instantly generate detailed weekly schemes with objectives and activities.
+              Instantly generate detailed lesson plans with objectives and activities.
             </p>
           </div>
 
